@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "La Spezia",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "notes": "",
+      "date": "2024-02-23T05:47:47.000Z",
+      "position": {
+        "lat": "44.09547572946637",
+        "lng": "9.81834411621094"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Bologna",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "notes": "",
+      "date": "2024-02-28T05:48:33.318Z",
+      "position": {
+        "lat": "44.4906276800508",
+        "lng": "11.359863281250002"
+      },
+      "id": 2
+    }
+  ]
+}
