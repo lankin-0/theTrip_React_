@@ -4,7 +4,7 @@
 ![Homepage](https://github.com/lankin-0/theTrip_React_/assets/75909425/82780f80-1849-4837-b00b-cb8d6d1bf043)
 
 ## Map
-![Map and cities](https://github.com/lankin-0/theTrip_React_/assets/75909425/4cbcc9b3-8ffb-4eca-b7bb-820260234eb8)
+![Map and cities one](https://github.com/lankin-0/theTrip_React_Map_Tracker/assets/75909425/13909f99-20c2-4add-b7b8-8b2dcd9899de)
 
 ## Fake Auth
 ![login](https://github.com/lankin-0/theTrip_React_/assets/75909425/4edf0eeb-afe9-4751-982d-113b19bf3032)
